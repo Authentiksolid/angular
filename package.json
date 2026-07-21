@@ -183,7 +183,7 @@
     "@types/jsdom": "^21.1.5",
     "@typescript/vfs": "^1.5.0",
     "@yarnpkg/lockfile": "^1.1.0",
-    "adm-zip": "^0.5.10",
+    "adm-zip": "^0.6.0",
     "angular-split": "^17.1.1",
     "assert": "^2.1.0",
     "check-side-effects": "0.0.23",
