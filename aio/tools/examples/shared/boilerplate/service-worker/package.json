@@ -14,9 +14,9 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "17.1.0",
-    "@angular/common": "17.1.0",
-    "@angular/compiler": "17.1.0",
-    "@angular/core": "17.1.0",
+    "@angular/common": "20.3.27",
+    "@angular/compiler": "20.3.27",
+    "@angular/core": "20.3.25",
     "@angular/forms": "17.1.0",
     "@angular/platform-browser": "17.1.0",
     "@angular/platform-browser-dynamic": "17.1.0",
