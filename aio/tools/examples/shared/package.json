@@ -28,7 +28,7 @@
     "@angular/localize": "17.1.0",
     "@angular/platform-browser": "17.1.0",
     "@angular/platform-browser-dynamic": "17.1.0",
-    "@angular/platform-server": "17.1.0",
+    "@angular/platform-server": "20.3.31",
     "@angular/router": "17.1.0",
     "@angular/service-worker": "17.1.0",
     "@angular/ssr": "17.1.0",
